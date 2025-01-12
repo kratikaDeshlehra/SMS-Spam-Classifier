@@ -7,15 +7,25 @@ Model-based Predictions: The backend uses a trained machine learning model to cl
 
 # Installation
 1. Clone the repository:
+   <br>
 git clone https://github.com/kratikaDeshlehra/SMS-Spam-Classifier.git
-2. Navigate to the project directory:
+<br>
+3. Navigate to the project directory:
+   <br>
 cd SMS-Spam-Classifier
-3. Install the dependencies:
+<br>
+4. Install the dependencies:
+   <br>
 You can install the required dependencies using pip:
+<br>
 pip install -r requirements.txt
-4.Run the Application
+<br>
+5.Run the Application
+<br>
 To run the Streamlit app, execute the following command in the project directory:
+<br>
 streamlit run app.py
+<br>
 This will start the Streamlit app.
 
 # How it Works
